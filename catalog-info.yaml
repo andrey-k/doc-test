@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: doc-test
+  annotations:
+    github.com/project-slug: andrey-k/doc-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: andrey-k
