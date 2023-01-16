@@ -4,6 +4,7 @@ metadata:
   name: doc-test
   annotations:
     github.com/project-slug: andrey-k/doc-test
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
